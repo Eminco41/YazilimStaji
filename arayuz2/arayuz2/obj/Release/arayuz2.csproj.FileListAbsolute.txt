@@ -1,0 +1,15 @@
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\bin\Release\arayuz2.exe.config
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\bin\Release\arayuz2.exe
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\bin\Release\arayuz2.pdb
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.Form1.resources
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.Form2.resources
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.Form3.resources
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.Form7.resources
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.Form4.resources
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.Form6.resources
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.Form5.resources
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.Properties.Resources.resources
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.csproj.GenerateResource.cache
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.csproj.CoreCompileInputs.cache
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.exe
+D:\OKUL\Staj Sunum\Zam\Arayüz\arayuz2\arayuz2\obj\Release\arayuz2.pdb
